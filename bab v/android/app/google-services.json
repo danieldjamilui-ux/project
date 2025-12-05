@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "652529687495",
+    "project_id": "sistempeternakan-8eaec",
+    "storage_bucket": "sistempeternakan-8eaec.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:652529687495:android:e890fa3f083bcc4aa157e2",
+        "android_client_info": {
+          "package_name": "com.example.project_seminar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "652529687495-7qu5t2d5dso52qg3sg8b4asdjkfa6d4r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.project_seminar",
+            "certificate_hash": "8bf7127469dc68f36fe2886b28d339d9e113b6f9"
+          }
+        },
+        {
+          "client_id": "652529687495-e77atb1922qdpnan8cqvj99q4iu3db03.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdfJK2YqQk-gMhtOv7rDYsp11ARg_PRkA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "652529687495-e77atb1922qdpnan8cqvj99q4iu3db03.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "652529687495-5qbkspukod829c43oib4fa3mg80kkqdm.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.projectSeminar"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
